@@ -10,20 +10,6 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     WHO AM I                              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-```python
-varx = {
-    "name"       : "Shree Varshan",
-    "based_at"   : "SRM University AP, India 🇮🇳",
-    "currently"  : "CSE Freshman • learning from first principles",
-    "obsessed_with" : ["ML fairness", "systems thinking", "competitive programming"],
-    "next_goal"  : "publish research → FAccT or arXiv",
-    
-}
-```
 
 <br/>
 
@@ -104,26 +90,6 @@ varx = {
 
 </div>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       SNAKE                               -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-### 🐍 Watch My Contributions Get Eaten
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/mevarx/mevarx/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/mevarx/mevarx/output/github-snake.svg" />
-  <img alt="github contribution snake"
-    src="https://raw.githubusercontent.com/mevarx/mevarx/output/github-snake-dark.svg" />
-</picture>
-
-</div>
 
 <br/>
 
