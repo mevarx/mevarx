@@ -30,7 +30,5 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mevarx/mevarx/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
-
 [![](https://komarev.com/ghpvc/?username=mevarx&icon=0&color=0)](https://visitcount.itsvg.in)
 
