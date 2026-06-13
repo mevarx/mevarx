@@ -22,15 +22,11 @@
 <table>
 <tr>
 <td><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=c,cpp,python,typescript,js&theme=dark" /></td>
+<td><img src="https://skillicons.dev/icons?i=cpp,python,js&theme=dark" /></td>
 </tr>
 <tr>
 <td><b>ML / AI</b></td>
 <td><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" /></td>
-</tr>
-<tr>
-<td><b>Web & Backend</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,firebase&theme=dark" /></td>
 </tr>
 <tr>
 <td><b>Cloud & Infra</b></td>
