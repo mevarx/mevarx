@@ -4,7 +4,7 @@
 
 # Shree Varshan
 
-CSE undergrad (ML/AI) · building ML systems, leaning toward fairness & bias research
+CSE undergrad (ML/AI) · building ML systems, Security
 
 </div>
 
