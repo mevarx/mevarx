@@ -24,8 +24,7 @@ CSE undergrad (ML/AI) · building ML systems, Security
 ### Research Interests
 
 ```
-├── Algorithmic Fairness & Bias Detection in ML Systems
-├── AI for Social Good — caste, religion, region, language bias in Indian datasets
+├── Security in ML & DL
 ├── Low-level Systems + ML intersection (efficient inference, model compression)
 └── Competitive Programming
 ```
