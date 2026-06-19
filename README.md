@@ -15,7 +15,7 @@ CSE undergrad (ML/AI) · building ML systems, Security
 <div align="center">
 
 [![](https://skillicons.dev/icons?i=c,cpp,py,pytorch,opencv,html,css,js&theme=dark)](https://skillicons.dev)
-[![](https://skillicons.dev/icons?i=git,github,linux,vercel&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=git,linux,&theme=dark)](https://skillicons.dev)
 
 </div>
 
