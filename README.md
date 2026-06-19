@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Shree Varshan
+# Shree Varshan Suresh Kumar
 
 CSE undergrad (ML/AI) · building ML systems, Security
 
